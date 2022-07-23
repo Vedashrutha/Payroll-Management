@@ -13,7 +13,7 @@ Download the source file or clone using :
     git clone --recursive git@github.com:Vedashrutha/Payroll-Management.git
     `
 
-Import SQL file to Xampp __[sql](https://github.com/Vedashrutha/Payroll-Management/blob/master/DataBase/veda.sql)__
+Import __[sql](https://github.com/Vedashrutha/Payroll-Management/blob/master/DataBase/veda.sql)__ file to Xampp ->MySQL
 
 Run php Admin in Xampp
 Run the index.html page from your browser
