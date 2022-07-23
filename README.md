@@ -23,8 +23,26 @@ Run the index.html page from your browser
 <table>
   <tr>
         <td>
-            <img src="https://github.com/Vedashrutha/Payroll-Management/blob/master/images/bg_index.jpg"
+            <img src="https://github.com/Vedashrutha/Payroll-Management/blob/master/images/index.png"
             title="Login Page"
+            style="display: inline-block; margin: auto; width: 500px; height:380px">
+        </td>
+        <td>
+            <img src="https://github.com/Vedashrutha/Payroll-Management/blob/master/images/home.png"
+            title="Home Page"
+            style="display: inline-block; margin: auto; width: 500px; height:380px">
+        </td>
+  </tr>
+    <table>
+  <tr>
+        <td>
+            <img src="https://github.com/Vedashrutha/Payroll-Management/blob/master/images/db.png"
+            title="Login Page"
+            style="display: inline-block; margin: auto; width: 500px; height:380px">
+        </td>
+        <td>
+            <img src="https://github.com/Vedashrutha/Payroll-Management/blob/master/images/utiliyy.png"
+            title="Home Page"
             style="display: inline-block; margin: auto; width: 500px; height:380px">
         </td>
   </tr>
