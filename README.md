@@ -21,43 +21,22 @@ Run the index.html page from your browser
     
 ## Screenshots
 <table>
-    <tr>
-
-    </tr>
-
   <tr>
         <td>
-            <img src="https://github.com/Vedashrutha/CGV-Assignment/blob/main/Menu.png"
-            title="Textured Look"
-            style="display: inline-block; margin: 0 auto; width: 500px; height:380px">
+            <img src="https://github.com/Vedashrutha/Payroll-Management/blob/master/images/bg_index.jpg"
+            title="Login Page"
+            style="display: inline-block; margin: auto; width: 500px; height:380px">
         </td>
-    <td>
-        <img src="https://github.com/Vedashrutha/CGV-Assignment/blob/main/Piston.png"
-            title="Textured Look"
-            style="display: inline-block; margin: 0 auto; width: 500px; height:380px">
-    </td>
   </tr>
-<tr>
-    <td>
-        <img
-            src="https://github.com/Vedashrutha/CGV-Assignment/blob/main/Textured.png"
-            title="Textured Look"
-            style="display: inline-block; margin: 0 auto; width: 500px; height:380px">
-    </td>
-  </tr>
+
 </table>
                                                                                      
 ## Features
 
-- Cross Sectional and Hollow View
-- Rotation
-- Enriched Texture
-- High Quality Rendering
-
-## Documentation
-
-<a href="https://github.com/Vedashrutha/CGV-Assignment/blob/main/Final_Report.pdf">Download Report</a>
-
+- Ease of Updation
+- Download Monthly Reports
+- Salary and Attendance Analytics
+- Error Recovery and Backup
 
 
 ## 🔗 Links
