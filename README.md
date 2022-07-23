@@ -1,22 +1,14 @@
 # Payroll-Management
-The Payroll Management System is capable of doing all the necessary operations/functions that are done in any Company 
-for example - tax on the employee, salary of the employee, clearing the attendance of the employee for the next year etc.
-Employee payroll management system is a web-based application, which any organization can use to manage the records of the employees working in the company. 
-Payroll Application has been designed to for the purpose of maintaining details of various employees, their allowances and deductions that need to be given 
-to the employees of the organization.
 
 This repo contains the complete code for the project EMPLOYEE PAYROLL MANAGEMENT SYSTEM built using HTML-5,CSS-3 and PHP.
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 
 
-This projects provides a complete simulation of a steam engine.
-Project details are as follows
-
-
 ## Configuration
-> #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
-> Configuration can be launched from the **Tools -> Settings** menu option.
+#### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
+Configuration can be launched from the **Tools -> Settings** menu option.
+<i class="fas fa-tools"></i>
 
 Download the source file or clone using :
 `bash 
