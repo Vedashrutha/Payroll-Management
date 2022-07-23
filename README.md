@@ -6,18 +6,17 @@ This repo contains the complete code for the project EMPLOYEE PAYROLL MANAGEMENT
 
 
 ## Configuration
-#### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
-Configuration can be launched from the **Tools -> Settings** menu option.
-<i class="fas fa-tools"></i>
+
 
 Download the source file or clone using :
 `bash 
-    git clone --recursive  https://github.com/Vedashrutha/CG-Assignment.git
+    git clone --recursive git@github.com:Vedashrutha/Payroll-Management.git
     `
 
-Download __[CodeBlocks](https://www.codeblocks.org/downloads/)__ and install __[Opengl](https://www.opengl.org/)__.
+Import SQL file to Xampp __[sql](https://github.com/Vedashrutha/Payroll-Management/blob/master/DataBase/veda.sql)__
 
-Create a new project and paste the main.cpp file to your project directory. 
+Run php Admin in Xampp
+Run the index.html page from your browser
 
     
 ## Screenshots
